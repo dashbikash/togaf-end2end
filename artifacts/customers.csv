@@ -1,0 +1,11 @@
+Business_ID,Company_Name,Business_Type,Tax_ID,Primary_Contact,Email,Phone,Region,Credit_Limit,Account_Status
+BUS-5001,Global Mart Retail,Supermarket,TAX-US-98765,Sarah Jenkins,s.jenkins@globalmart.com,+1-555-0123,North America,50000,Active
+BUS-5002,Indo-Grain Distributors,Wholesaler,GST-IN-11223,Rajesh Kumar,r.kumar@indograin.in,+91-98220-11223,South Asia,120000,Active
+BUS-5003,EuroFood Logistics,Distributor,VAT-EU-44556,Elena Muller,e.muller@eurofood.de,+49-30-123456,Europe,75000,On Hold
+BUS-5004,Gulf Oasis Hypermarket,Hypermarket,TRN-AE-77889,Ahmed Al-Sayed,ahmed.s@gulfoasis.ae,+971-4-555-6789,Middle East,200000,Active
+BUS-5005,Pacific Pantry Ltd,Retail Chain,ABN-AU-33445,Kevin Lee,klee@pacificpantry.com.au,+61-2-9876-5432,Oceania,60000,Active
+BUS-5006,Metro Essentials,Convenience Store,TAX-CA-22334,Marcus Vane,m.vane@metro.ca,+1-416-555-0958,North America,15000,Active
+BUS-5007,Bharat Agro Exports,Exporter,GST-IN-99001,Ananya Iyer,a.iyer@bharatagro.com,+91-91234-56789,South Asia,500000,Active
+BUS-5008,Latin-Am Foods,Wholesaler,NIT-CO-66778,Diego Rossi,d.rossi@latinfoods.co,+57-1-234-5678,South America,85000,Active
+BUS-5009,SE Asia Trading Co,Distributor,UEN-SG-11002,Linh Tran,l.tran@seatrading.sg,+65-6789-0123,SE Asia,110000,Active
+BUS-5010,Heritage Grains Co,Processor,VAT-UK-55667,David Smith,d.smith@heritage.co.uk,+44-20-7946-0000,Europe,90000,Under Review

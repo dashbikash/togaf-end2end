@@ -1,0 +1,10 @@
+services:
+  db:
+    image: mysql:9
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: customer_db
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./init_scripts:/docker-entrypoint-initdb.d # Mount the initialization scripts

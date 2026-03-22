@@ -1,0 +1,11 @@
+SKU_ID,Product_Name,Category,Sub_Category,Extraction_Grade,Pack_Size,Unit_Price,Stock_Level,Origin,Expiry_Date
+GRN-RIC-101,Basmati XXL Long Grain,Grains,Rice,Export Grade,5kg,18.50,1200,Haryana,2027-09-15
+OIL-SUN-501,SunGlow Refined Oil,Oils,Sunflower,Refined,1L Pouch,2.10,2500,Ukraine,2027-01-10
+GRN-WHT-202,Whole Wheat Atta,Grains,Wheat,Chakki Fresh,10kg,12.00,800,Madhya Pradesh,2026-10-20
+OIL-OLV-305,Extra Virgin Olive Oil,Oils,Olive,Cold Pressed,500ml Glass,9.50,150,Spain,2027-06-30
+GRN-MIL-404,Organic Finger Millet,Grains,Millet,A Grade,1kg,3.75,450,Karnataka,2026-12-15
+OIL-MUS-202,Kachi Ghani Mustard Oil,Oils,Mustard,Cold Pressed,1L Bottle,2.80,600,Rajasthan,2027-03-05
+GRN-QUI-808,White Quinoa Seeds,Grains,Pseudocereal,Premium,500g,7.00,200,Peru,2027-05-22
+OIL-COCO-11,Pure Coconut Oil,Oils,Coconut,Virgin,250ml Jar,4.50,300,Kerala,2027-08-14
+GRN-BAR-606,Pearled Barley,Grains,Barley,Standard,1kg,2.50,400,Australia,2026-11-30
+OIL-PLM-901,Palm Olein Vegetable Oil,Oils,Palm,Refined,15L Tin,28.00,100,Malaysia,2027-02-25
