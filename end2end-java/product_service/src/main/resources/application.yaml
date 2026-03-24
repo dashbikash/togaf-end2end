@@ -4,9 +4,9 @@ spring:
   application:
     name: product_service
   datasource:
-    url: jdbc:mysql://localhost:3306/product_db?useSSL=false&serverTimezone
-    username: root
-    password: root
+    url: jdbc:mysql://${MYSQL_HOST:localhost:3306}/product_db?useSSL=false&serverTimezone
+    username: ${MYSQL_USER:root}
+    password: ${MYSQL_PASSWORD:root}
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
